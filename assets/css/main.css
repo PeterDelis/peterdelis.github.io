@@ -2603,7 +2603,7 @@ input, select, textarea {
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 35%;
 	}
@@ -2641,7 +2641,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;   /* 0 0 1em 0 */
-			width: 16em; /* 6.25em */
+			width: 17em; /* 6.25em */
 		}
 
 /* Footer */
